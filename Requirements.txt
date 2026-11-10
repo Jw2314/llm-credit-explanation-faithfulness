@@ -7,3 +7,6 @@ tatsmodels
 transformers
 torch
 matplotlib
+shap
+xgboost
+scikit-learn
