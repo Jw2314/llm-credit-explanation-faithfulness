@@ -1,1 +1,1 @@
-# LLM-earnings-sentiment-event-study
+# LLM-Credit-explanation-faithfulness
